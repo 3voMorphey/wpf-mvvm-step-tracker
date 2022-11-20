@@ -1,4 +1,4 @@
-C#WPF application with MVVM pattern for tracking statistics of steps per month.
+# C#WPF application with MVVM pattern for tracking statistics of steps per month.
 ===========
 The main functions of the application:
 
